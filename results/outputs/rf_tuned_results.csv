@@ -1,0 +1,6 @@
+Crop,City,Model,Split,Best Params,MAE,RMSE,MAPE
+Banana(DOZENS),Vehari,RF Tuned,test,"{'max_depth': 15, 'min_samples_leaf': 1, 'n_estimators': 100, 'random_state': 42, 'n_jobs': -1}",17.8212,23.3031,20.1541
+Garlic (China),Rawalpindi,RF Tuned,test,"{'max_depth': 10, 'min_samples_leaf': 5, 'n_estimators': 300, 'random_state': 42, 'n_jobs': -1}",3332.4553,4166.815,14.6875
+Cauliflower,Faisalabad,RF Tuned,test,"{'max_depth': 10, 'min_samples_leaf': 3, 'n_estimators': 100, 'random_state': 42, 'n_jobs': -1}",1147.9919,1497.0048,27.6481
+Green Chilli,Vehari,RF Tuned,test,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 300, 'random_state': 42, 'n_jobs': -1}",2092.2445,2561.8219,24.0393
+Cabbage,Rawalpindi,RF Tuned,test,"{'max_depth': 15, 'min_samples_leaf': 1, 'n_estimators': 100, 'random_state': 42, 'n_jobs': -1}",1174.5883,1455.2112,30.299

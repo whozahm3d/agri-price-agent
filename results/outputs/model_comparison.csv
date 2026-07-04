@@ -1,0 +1,46 @@
+Crop,City,Model,MAE,RMSE,MAPE (%)
+Banana(DOZENS),Vehari,Naive,31.5881,37.2237,36.52
+Banana(DOZENS),Vehari,Seasonal Naive,17.6853,24.3648,20.98
+Banana(DOZENS),Vehari,Holt-Winters,15.1064,20.6814,17.26
+Banana(DOZENS),Vehari,ARIMA,30.5937,36.2985,35.24
+Banana(DOZENS),Vehari,Linear Reg,8.9462,11.1914,11.3
+Banana(DOZENS),Vehari,Random Forest,19.1348,24.6518,21.7
+Banana(DOZENS),Vehari,XGBoost,17.9836,23.5876,20.31
+Banana(DOZENS),Vehari,RF Tuned,17.8212,23.3031,20.15
+Banana(DOZENS),Vehari,XGB Tuned,16.7385,22.4814,19.01
+Garlic (China),Rawalpindi,Naive,5863.2796,6597.6392,26.05
+Garlic (China),Rawalpindi,Seasonal Naive,8979.6162,10550.5035,37.11
+Garlic (China),Rawalpindi,Holt-Winters,5442.0573,6120.1514,24.76
+Garlic (China),Rawalpindi,ARIMA,5899.3702,6658.0557,26.05
+Garlic (China),Rawalpindi,Linear Reg,2646.3833,3836.2618,13.9
+Garlic (China),Rawalpindi,Random Forest,4059.4898,5011.572,17.34
+Garlic (China),Rawalpindi,XGBoost,4703.9036,6160.0867,19.47
+Garlic (China),Rawalpindi,RF Tuned,3332.4553,4166.815,14.69
+Garlic (China),Rawalpindi,XGB Tuned,4636.3173,5886.5161,19.17
+Cauliflower,Faisalabad,Naive,2349.1059,2843.8979,53.72
+Cauliflower,Faisalabad,Seasonal Naive,1075.2061,1412.9746,22.74
+Cauliflower,Faisalabad,Holt-Winters,922.0821,1126.4405,24.18
+Cauliflower,Faisalabad,ARIMA,2704.826,3342.8508,51.82
+Cauliflower,Faisalabad,Linear Reg,1026.4482,1337.1575,22.84
+Cauliflower,Faisalabad,Random Forest,1183.9141,1512.4733,29.42
+Cauliflower,Faisalabad,XGBoost,1127.9256,1520.7788,27.28
+Cauliflower,Faisalabad,RF Tuned,1147.9919,1497.0048,27.65
+Cauliflower,Faisalabad,XGB Tuned,1093.5723,1467.637,25.81
+Green Chilli,Vehari,Naive,3283.5964,4039.7854,41.8
+Green Chilli,Vehari,Seasonal Naive,2027.1639,2669.1614,25.43
+Green Chilli,Vehari,Holt-Winters,2958.638,3901.085,32.0
+Green Chilli,Vehari,ARIMA,3423.4562,4382.4692,38.84
+Green Chilli,Vehari,Linear Reg,2137.9539,2679.2744,28.47
+Green Chilli,Vehari,Random Forest,2091.3561,2576.3635,23.89
+Green Chilli,Vehari,XGBoost,1982.5921,2597.9231,23.61
+Green Chilli,Vehari,RF Tuned,2092.2445,2561.8219,24.04
+Green Chilli,Vehari,XGB Tuned,1888.0722,2550.0512,22.48
+Cabbage,Rawalpindi,Naive,1334.4043,1535.0145,48.65
+Cabbage,Rawalpindi,Seasonal Naive,1722.0295,2009.5799,49.26
+Cabbage,Rawalpindi,Holt-Winters,1308.8846,1489.492,42.29
+Cabbage,Rawalpindi,ARIMA,1644.2991,1932.1022,43.36
+Cabbage,Rawalpindi,Linear Reg,846.7401,1025.9492,21.93
+Cabbage,Rawalpindi,Random Forest,1171.8064,1452.3473,30.26
+Cabbage,Rawalpindi,XGBoost,1289.9014,1571.4915,34.56
+Cabbage,Rawalpindi,RF Tuned,1174.5883,1455.2112,30.3
+Cabbage,Rawalpindi,XGB Tuned,1189.6062,1444.4062,36.6

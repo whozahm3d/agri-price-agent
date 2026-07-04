@@ -1,0 +1,21 @@
+Crop,City,Model,Split,MAE,RMSE,MAPE
+Banana(DOZENS),Vehari,Naive,val,25.05500030517578,27.579500198364258,51.93
+Banana(DOZENS),Vehari,Naive,test,31.58810043334961,37.22370147705078,36.52
+Banana(DOZENS),Vehari,Seasonal Naive,val,7.3958,9.5773,11.92
+Banana(DOZENS),Vehari,Seasonal Naive,test,17.6853,24.3648,20.98
+Garlic (China),Rawalpindi,Naive,val,4644.740234375,5830.02587890625,32.75
+Garlic (China),Rawalpindi,Naive,test,5863.27978515625,6597.63916015625,26.05
+Garlic (China),Rawalpindi,Seasonal Naive,val,4424.9873,5117.3528,38.72
+Garlic (China),Rawalpindi,Seasonal Naive,test,8979.6162,10550.5035,37.11
+Cauliflower,Faisalabad,Naive,val,1762.2371826171875,1958.4605712890625,63.48
+Cauliflower,Faisalabad,Naive,test,2349.10595703125,2843.89794921875,53.72
+Cauliflower,Faisalabad,Seasonal Naive,val,1403.2857,1577.1028,40.88
+Cauliflower,Faisalabad,Seasonal Naive,test,1075.2061,1412.9746,22.74
+Green Chilli,Vehari,Naive,val,2931.333740234375,3765.5224609375,36.25
+Green Chilli,Vehari,Naive,test,3283.596435546875,4039.78564453125,41.8
+Green Chilli,Vehari,Seasonal Naive,val,2711.095,3590.0277,30.89
+Green Chilli,Vehari,Seasonal Naive,test,2027.1639,2669.1614,25.43
+Cabbage,Rawalpindi,Naive,val,2069.601318359375,2306.370849609375,103.47
+Cabbage,Rawalpindi,Naive,test,1334.404296875,1535.0145263671875,48.65
+Cabbage,Rawalpindi,Seasonal Naive,val,1169.1686,1439.1498,45.38
+Cabbage,Rawalpindi,Seasonal Naive,test,1722.0295,2009.5799,49.26

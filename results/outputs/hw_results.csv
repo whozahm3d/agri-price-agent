@@ -1,0 +1,6 @@
+Crop,City,Model,Seasonal Type,Split,MAE,RMSE,MAPE
+Banana(DOZENS),Vehari,Holt-Winters,mul,test,15.1064,20.6814,17.2649
+Garlic (China),Rawalpindi,Holt-Winters,add,test,5442.0573,6120.1514,24.7585
+Cauliflower,Faisalabad,Holt-Winters,mul,test,922.0821,1126.4405,24.1808
+Green Chilli,Vehari,Holt-Winters,mul,test,2958.638,3901.085,31.9991
+Cabbage,Rawalpindi,Holt-Winters,mul,test,1308.8846,1489.492,42.2889

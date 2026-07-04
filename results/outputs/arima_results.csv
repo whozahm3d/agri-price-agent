@@ -1,0 +1,6 @@
+Crop,City,Model,Best Order,Split,MAE,RMSE,MAPE
+Banana(DOZENS),Vehari,ARIMA,"(1, 1, 1)",test,30.5937,36.2985,35.2413
+Garlic (China),Rawalpindi,ARIMA,"(1, 1, 2)",test,5899.3702,6658.0557,26.0537
+Cauliflower,Faisalabad,ARIMA,"(2, 1, 1)",test,2704.826,3342.8508,51.823
+Green Chilli,Vehari,ARIMA,"(1, 1, 2)",test,3423.4562,4382.4692,38.8422
+Cabbage,Rawalpindi,ARIMA,"(1, 1, 2)",test,1644.2991,1932.1022,43.3589

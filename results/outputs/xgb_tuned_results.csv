@@ -1,0 +1,6 @@
+Crop,City,Model,Split,Best Params,MAE,RMSE,MAPE
+Banana(DOZENS),Vehari,XGB Tuned,test,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 200, 'subsample': 0.9}",16.7385,22.4814,19.015
+Garlic (China),Rawalpindi,XGB Tuned,test,"{'learning_rate': 0.03, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}",4636.3173,5886.5161,19.1658
+Cauliflower,Faisalabad,XGB Tuned,test,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 200, 'subsample': 0.9}",1093.5723,1467.637,25.8067
+Green Chilli,Vehari,XGB Tuned,test,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.9}",1888.0722,2550.0512,22.4802
+Cabbage,Rawalpindi,XGB Tuned,test,"{'learning_rate': 0.1, 'max_depth': 7, 'n_estimators': 200, 'subsample': 0.7}",1189.6062,1444.4062,36.5981
