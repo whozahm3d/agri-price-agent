@@ -218,7 +218,7 @@ committee.
 
 ## Author
 
-**Ali Ahmad** — FAST NUCES Lahore, Data Science & AI
+**Ali Ahmad** — FAST NUCES Lahore, Data Science
 
 ## License
 
